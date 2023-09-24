@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "这是我人生中第一条博客"
+title: "这是我的第一个博客" 
+mathjax: true
 ---
 
 # 这是一个大标题
 
 ## 这是一个二级标题
 
- 
